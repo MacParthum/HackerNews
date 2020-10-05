@@ -2,7 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+### `git push origin main`
+
+Saves to github main
+
+### `yarn run deploy`
+
+Saves to github pages
 
 ### `yarn start`
 
