@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/hackernews-tut/static/js/main.8e4e1d24.chunk.js",
-    "main.js.map": "/hackernews-tut/static/js/main.8e4e1d24.chunk.js.map",
+    "main.js": "/hackernews-tut/static/js/main.01577ca9.chunk.js",
+    "main.js.map": "/hackernews-tut/static/js/main.01577ca9.chunk.js.map",
     "runtime-main.js": "/hackernews-tut/static/js/runtime-main.ea598c25.js",
     "runtime-main.js.map": "/hackernews-tut/static/js/runtime-main.ea598c25.js.map",
     "static/js/2.ae458f7c.chunk.js": "/hackernews-tut/static/js/2.ae458f7c.chunk.js",
     "static/js/2.ae458f7c.chunk.js.map": "/hackernews-tut/static/js/2.ae458f7c.chunk.js.map",
     "index.html": "/hackernews-tut/index.html",
-    "precache-manifest.73e13567596cf8cbfc86041072527a5c.js": "/hackernews-tut/precache-manifest.73e13567596cf8cbfc86041072527a5c.js",
+    "precache-manifest.92c3a6c50e95a953ab55897779eba32f.js": "/hackernews-tut/precache-manifest.92c3a6c50e95a953ab55897779eba32f.js",
     "service-worker.js": "/hackernews-tut/service-worker.js",
     "static/js/2.ae458f7c.chunk.js.LICENSE.txt": "/hackernews-tut/static/js/2.ae458f7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea598c25.js",
     "static/js/2.ae458f7c.chunk.js",
-    "static/js/main.8e4e1d24.chunk.js"
+    "static/js/main.01577ca9.chunk.js"
   ]
 }
