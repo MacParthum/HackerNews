@@ -24,7 +24,7 @@ export const Story = ({ storyId }) => {
         <span data-testid="story-by">
           <StoryMetaElement color="000">By:</StoryMetaElement> {story.by}
         </span>
-        <span className="story__time" data-testid="story-time">
+        <span data-testid="story-time">
           <StoryMetaElement color="000">Posted:</StoryMetaElement> {` `}
           {story.time}
         </span>

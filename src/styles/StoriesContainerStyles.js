@@ -4,12 +4,12 @@ export const GlobalStyle = createGlobalStyle`
 
 html {
     -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+            box-sizing: border-box;
 }
 
-*, *:before, *after {
+*, *:before, *:after {
     -webkit-box-sizing: inherit;
-    box-sizing: inherit;
+            box-sizing: inherit;
 }
 
 body {
@@ -23,13 +23,15 @@ body {
 }
 
 ul {
+    display:table
     margin: 0;
     padding; 0;
 }
 `;
 
 export const StoriesContainerWrapper = styled.main`
- max-width; 1140px;
- padding 20px 15px;
+
+ max-width: 1140px;
+ padding: 20px 15px;
  margin: auto;
  `;
